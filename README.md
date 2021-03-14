@@ -1,5 +1,5 @@
 # hello-world
 Just another repository
 
-I just a newbie that what to learn github
+I just a newbie that want to learn github
 
